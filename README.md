@@ -22,6 +22,8 @@ aside: Sitenin sidebar bölümünü oluşturur.
 footer: Sitenin alt bölümünü oluşturur.
 
 konuları üzerinde duruldu.
+
+Link : https://fluffy-lebkuchen-4ca0e9.netlify.app
 ***
 ***
 **portfolio website**
@@ -47,4 +49,6 @@ aside: Creates the sidebar section of the site.
 footer: Creates the footer of the site.
 
 topics were emphasized.
+
+Link : https://fluffy-lebkuchen-4ca0e9.netlify.app
 ***
